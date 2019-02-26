@@ -1,0 +1,19 @@
+{
+  "name": "faiz4work.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faiz4work/faiz4work.github.io.git"
+  },
+  "author": "Faiz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faiz4work/faiz4work.github.io/issues"
+  },
+  "homepage": "https://github.com/Faiz4work/faiz4work.github.io#readme"
+}
